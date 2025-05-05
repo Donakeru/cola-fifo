@@ -37,9 +37,3 @@ Implementa la cola FIFO para gestionar los procesos.
 - **`mostrar_proceso_actual(self)`**: Muestra el proceso que está al frente de la cola.
 - **`eliminar_proceso_terminado(self)`**: Elimina el proceso al frente de la cola.
 - **`mostrar_estado_cola(self)`**: Muestra todos los procesos en la cola en el orden de llegada.
-
-## Uso
-
-1. **Crear una instancia de la cola FIFO**:
-   ```python
-   cola = ColaFIFO()
