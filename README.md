@@ -1,6 +1,3 @@
-# cola-fifo
-Respuesta a la sección 4 del formulario - Tarea Práctica.
-
 # Simulación de una Cola FIFO para Gestión de Procesos
 
 Este proyecto implementa una **cola FIFO** (First-In, First-Out) para gestionar procesos. Cada proceso tiene un **nombre** y una **prioridad**, y la cola gestiona los procesos en el orden en que fueron agregados.
