@@ -40,3 +40,4 @@ Implementa la cola FIFO para gestionar los procesos.
 - **`mostrar_proceso_actual(self)`**: Muestra el proceso que está al frente de la cola.
 - **`eliminar_proceso_terminado(self)`**: Elimina el proceso al frente de la cola.
 - **`mostrar_estado_cola(self)`**: Muestra todos los procesos en la cola en el orden de llegada.
+- **procesar_toda_la_cola(self)**: procesa toda la cola hasta vaciarla mostrando el estado en cada paso.
